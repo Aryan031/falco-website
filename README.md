@@ -6,7 +6,7 @@ In order to contribute a logo you must meet one of the following adopter types.
 
  - End-user, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md)
  - Vendor, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md)
- - Integration, with a contribution to the [Falco contrib](https://github.com/falcosecurity/contrib) repository. This must be documentation at the very least that describes how to use Falco with your project or tool.
+ - Integration, with a contribution to the [Falco contrib](https://github.com/falcosecurity/contrib) repository. This must be documentation at the very least that describes how to use Falco with your project or your tool.
 
 Then open a pull request to this repository that contains:
 
